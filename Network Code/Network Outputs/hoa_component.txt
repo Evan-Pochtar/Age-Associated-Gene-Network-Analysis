@@ -1,0 +1,33 @@
+Sum of HOA components for each edge in the network:
+altered_intercellular_communication: 72758
+cellullar_senescence: 72758
+deregulated_nutrient_sensing: 72758
+epigenetic_alterations: 72758
+genomic_instability: 72758
+loss_of_proteostasis: 72758
+mitochondrial_dysfunction: 72758
+stem_cell_exhaustion: 72758
+telomere_attrition: 72758
+
+Sum of the row values for the top 100 nodes:
+altered_intercellular_communication    3351
+cellullar_senescence                     88
+deregulated_nutrient_sensing           1304
+epigenetic_alterations                  145
+genomic_instability                     223
+loss_of_proteostasis                   1506
+mitochondrial_dysfunction              1156
+stem_cell_exhaustion                    635
+telomere_attrition                      138
+dtype: int64
+Edge-HOA calculation for the top 100 nodes:
+altered_intercellular_communication    658339
+cellullar_senescence                    19325
+deregulated_nutrient_sensing           246477
+epigenetic_alterations                  28053
+genomic_instability                     46295
+loss_of_proteostasis                   294429
+mitochondrial_dysfunction              244492
+stem_cell_exhaustion                   118827
+telomere_attrition                      30438
+dtype: int64
